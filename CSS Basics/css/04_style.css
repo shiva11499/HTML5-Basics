@@ -1,0 +1,16 @@
+#box-1 {
+  background-color: antiquewhite;
+  /* border-width: 3px;
+  border-color: brown;
+  border-style: solid; */
+  border: 3px rebeccapurple solid;
+  border-radius: 10px;
+}
+
+#box-3 {
+  background-image: url("./tree.jpg");
+  background-size: cover;
+  color: white;
+  height: 200px;
+  width: 1000px;
+}
