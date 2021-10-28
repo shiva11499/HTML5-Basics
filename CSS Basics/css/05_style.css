@@ -1,0 +1,23 @@
+.box {
+  background-color: #f4f4f4;
+  border: 2px #777 solid;
+  width: 500px;
+
+  /* Padding on all sides */
+  padding: 20px;
+
+  /* Padding short hand = top right bottom left */
+  padding: 10px 20px 10px 20px;
+
+  /* Padding short hand = top/bottom left/right */
+  padding: 10px 20px;
+
+  /* Margin on all sides */
+  margin: 20px;
+
+  /* Margin short hand = top right bottom left */
+  margin: 10px 20px 10px 20px;
+
+  /* Margin short hand = top/bottom left/right */
+  margin: 10px 20px;
+}
