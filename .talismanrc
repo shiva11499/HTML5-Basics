@@ -1,3 +1,5 @@
 fileignoreconfig:
 - filename: 03_meta_tags.html
   checksum: 864db6dfcaa8a06093c69d09d60c7751496e323a69175dec866ca1029cca7e9e
+- filename: CSS
+  checksum: 663204bb886c095bfc684e602f072799a8f6f443b93b7b11997d095e5aab0937
