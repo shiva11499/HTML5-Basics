@@ -1,0 +1,37 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+a:hover {
+  color: coral;
+}
+
+/* a:visited {
+  color: red;
+} */
+
+a:active {
+  color: aquamarine;
+}
+
+/* Button Styling */
+.btn {
+  background-color: #4c6ca0;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  padding: 10px 20px;
+  /* Buttons do not have a pointer by default, if we still want to add one, we csn do it like this */
+  cursor: pointer;
+}
+
+.btn:hover {
+  color: #f4f4f4;
+  background-color: #446190;
+}
